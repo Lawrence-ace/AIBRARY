@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "email": "admin@aibrary.com",
+    "password": "$2a$10$KPgrNN1ZZJMPxcpKjrbpV.lxcCxggcnkocuMChpRRGDUEDjv7Zf/m",
+    "role": "admin",
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "username": "Nelsontest1",
+    "email": "nelsontest1@gmail.com",
+    "password": "$2a$10$Ls9aU9V6teMxzkkTA/Q1meanLVDxnEwild.F4al9gLrJIkCPUzPuy",
+    "role": "user",
+    "createdAt": "2025-07-09T02:27:01.650Z"
+  }
+]
